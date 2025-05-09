@@ -2,7 +2,7 @@
 
 A benchmarker analysis tool for C++, boilerplate hidden.
 
-## Typical usage:
+### Typical usage:
 ```cpp
 int main()
 {
