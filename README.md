@@ -1,4 +1,6 @@
-# Benchmarker
+# Benchy
+
+A benchmarker analysis tool for C++, boilerplate hidden.
 
 ## Typical usage:
 ```cpp
